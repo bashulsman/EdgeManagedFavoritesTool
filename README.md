@@ -71,7 +71,7 @@ Only needed when the Settings Catalog variant is not usable.
 ```json
 [
   { "toplevel_name": "Company links" },
-  { "name": "Afas Online", "url": "https://login.afasonline.com/49744/Apps" },
+  { "name": "Afas Online", "url": "https://login.afasonline.com/" },
   { "name": "Applications",
     "children": [
       { "name": "SharePoint", "url": "contoso.sharepoint.com" }
